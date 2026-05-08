@@ -1,0 +1,42 @@
+{
+  "contact": "1234567890",
+  "email": "user@example.com",
+  "firstname": "susan",
+  "lastname": "smith",
+  "address": "Home",
+  "line1": "123 Main St",
+  "line2": "Apt 4B",
+  "country": "USA",
+  "state": "NY",
+  "apartment": "5C"
+}
+
+
+
+{
+  "contact": "1234567890",
+  "email": "user@example.com",
+  "firstname": "akash",
+  "lastname": "Don",
+  "address": "Home",
+  "line1": "123 Main St",
+  "line2": "Apt 4B",
+  "country": "USA",
+  "state": "NY",
+  "apartment": "4B"
+}
+
+
+
+{
+  "contact": "1234567890",
+  "email": "user@example.com",
+  "firstname": "Mamatha",
+  "lastname": "Raj",
+  "address": "Home",
+  "line1": "123 Main St",
+  "line2": "Apt 4B",
+  "country": "USA",
+  "state": "NY",
+  "apartment": "4B"
+}
